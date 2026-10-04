@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<style>
+.logoLatin{font-family:"Google Sans Flex","Noto Sans",Arial,sans-serif;font-variation-settings:"wght" 500,"wdth" 100,"opsz" 48,"GRAD" 0,"ROND" 0;font-weight:500;}
+</style>
+
+<text x="600" y="198" text-anchor="middle" class="logoLatin" font-size="172" letter-spacing="-5"><tspan fill="#0B2D5B">octa</tspan><tspan fill="#2F80ED">CEL</tspan></text>
+
+</svg>
